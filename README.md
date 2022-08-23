@@ -40,7 +40,7 @@ Track One (RJR Forum)
 
 9️⃣ Classification Subscriptions for Users of Results
 
-1️⃣0️⃣ 
+1️⃣0️⃣ Access via MQTT, AMQP, Kafka, Pulsar, WebSockets, Presto SQL
  
 
 
@@ -80,4 +80,3 @@ Track One (RJR Forum)
 * https://github.com/tspannhw/FLiPS-SparkOnPulsar
 * https://github.com/tspannhw/nlp-utilities
 * https://github.com/tspannhw/nifi-djlqa-processor
-* 
