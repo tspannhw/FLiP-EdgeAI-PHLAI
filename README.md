@@ -22,17 +22,26 @@ Track One (RJR Forum)
 ⭐ Building FLiPN Stack Edge AI Apps
 -------------------------------------------
 
-1️⃣ Start 
-2️⃣ 
-3️⃣ 
-4️⃣ 
-5️⃣ 
-6️⃣
-7️⃣
-8️⃣
-9️⃣ 
+1️⃣ Deploy Pulsar Cluster (or use StreamNative Cloud)
+
+2️⃣ Deploy a Device (NVIDIA Jetson Nano, Xavier, Raspberry Pi, etc...)
+
+🏭 3️⃣ Build your Edge Application Skeleton (Python, Java, Go) 
+
+4️⃣ Use Model From an Existing Model Zoo or Build a New One (Data Scientist)
+
+5️⃣ Deploy your model (can be utilizing feature store including Pulsar Function Store)
+
+6️⃣ Call ML libraries or models from your application
+
+7️⃣ (Optional) Edge Pulsar Cluster can Run Pulsar Functions with ML
+
+8️⃣ Classification Results Published to Pulsar Topics
+
+9️⃣ Classification Subscriptions for Users of Results
+
 1️⃣0️⃣ 
-🏭 
+ 
 
 
 
