@@ -40,10 +40,9 @@ Track One (RJR Forum)
 
 9️⃣ Classification Subscriptions for Users of Results
 
-1️⃣0️⃣ Access via MQTT, AMQP, Kafka, Pulsar, WebSockets, Presto SQL
+1️⃣0️⃣ Access via MQTT, AMQP, Kafka, Pulsar, WebSockets, Flink, Spark, Java, Python, Golang, Kotlin,
+    Scala, NodeJS, C++, C#, Jupyter Notebooks, DeltaLake, Presto SQL, ...
  
-
-
 
 ### Articles
 
