@@ -1,6 +1,8 @@
 # FLiP-EdgeAI-PHLAI
 Building FLiPN Stack Edge AI Applications
 
+https://www.slideshare.net/bunkertor/building-flipn-stack-edge-ai-applications
+
 
 ### Conference
 
